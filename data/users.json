@@ -1,0 +1,27 @@
+[
+  {
+    "id": "u1",
+    "firstName": "Admin",
+    "lastName": "User",
+    "email": "admin@trendinlaw.com",
+    "password": "$2b$10$oY1QjS5Z/kR6P5M8n4oDWeA/z0c8t9p3X2L6V.4I7H8J9K0L1M2N3O",
+    "role": "admin"
+  },
+  {
+    "id": "u2",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "email": "jane@example.com",
+    "password": "$2b$10$fA1CjS5Z/kR6P5M8n4oDWeA/z0c8t9p3X2L6V.4I7H8J9K0L1M2N3P",
+    "role": "customer"
+  },
+  {
+    "id": "75ab7fb9-301b-47a4-bf0b-7692dc7b6a99",
+    "firstName": "aliyan",
+    "lastName": "-",
+    "email": "connect.aliyansaleem@gmail.com",
+    "password": "$2b$10$cfOSje.CuZHFLIgt0EsmiOBhkSjcDqYU9NDzDDj1a2Pv/5gLPfSxe",
+    "role": "customer",
+    "createdAt": "2026-02-28T02:20:19.706Z"
+  }
+]

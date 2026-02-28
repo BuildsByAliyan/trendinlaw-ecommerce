@@ -1,0 +1,26 @@
+[
+  {
+    "id": "o1",
+    "userId": "u2",
+    "customerDetails": {
+      "fullName": "Jane Doe",
+      "phone": "555-1234",
+      "email": "jane@example.com"
+    },
+    "items": [
+      {
+        "productId": "p1",
+        "name": "Luxury Leather Backpack",
+        "price": 129.99,
+        "quantity": 1,
+        "size": "N/A",
+        "color": "Brown"
+      }
+    ],
+    "totalAmount": 129.99,
+    "shippingAddress": "123 Main St, City, Country",
+    "paymentMethod": "COD",
+    "status": "Processing",
+    "createdAt": "2024-01-10T10:00:00Z"
+  }
+]

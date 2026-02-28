@@ -1,0 +1,12 @@
+[
+  {
+    "id": "r1",
+    "orderId": "o1",
+    "email": "jane@example.com",
+    "productName": "Luxury Leather Backpack",
+    "reason": "Wrong size received.",
+    "type": "Exchange",
+    "date": "2024-03-05T12:00:00Z",
+    "status": "Pending"
+  }
+]

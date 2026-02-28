@@ -1,0 +1,24 @@
+[
+  {
+    "id": "p1",
+    "name": "Luxury Leather Backpack",
+    "price": 129.99,
+    "description": "Premium full-grain leather backpack with antique brass hardware.",
+    "category": "Bags",
+    "image": "image/product-1.jpg",
+    "stock": 15,
+    "sizes": ["S", "M", "L"],
+    "colors": ["Black", "Brown"]
+  },
+  {
+    "id": "p2",
+    "name": "TrendSetter Denim Jacket",
+    "price": 89.50,
+    "description": "Hand-stitched distressed denim jacket with a slim fit.",
+    "category": "Apparel",
+    "image": "image/product-2.jpg",
+    "stock": 22,
+    "sizes": ["M", "L", "XL"],
+    "colors": ["Blue", "White"]
+  }
+]
