@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-**[→ View Live Website](https://codewithaliyan.github.io/trendinlaw-ecommerce/)**
+**[→ View Live Website](https://BuildsByAliyan.github.io/trendinlaw-ecommerce/)**
 
 ---
 
